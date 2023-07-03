@@ -21,7 +21,8 @@ list_of_files = [
     "params.ymal",
     "requirements.txt",
     "setup.py",
-    "Notebook/trial.ipynb"
+    "Notebook/trial.ipynb",
+    "templates/index.html"
 ]
 ''' "f"formatted string in Python using an f-string. It is used 
     to dynamically create a string by substituting the value 
